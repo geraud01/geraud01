@@ -5,18 +5,6 @@ Olá, tenho 28 anos e sou natural de São Paulo.
 
 Após a flexibilização da pandemia, decidi me aventurar pelo sul da Bahia, onde, atualmente estou morando em Arraial D`Ajuda, um pedacinho do paraíso próximo à Porto Seguro.
 
-# Estou aprendendo:
-<div>
-	
-Curso superior em Design Gráfico pela UniCV;
-
-Design Thinking pela FIAP;
-
-Engenharia de Front-End pela EBAC;
-
-UX | UI pela Google Creative;
-
-</div>
 
 # Ferramentas e Tecnologias:
 <div>
@@ -32,12 +20,25 @@ UX | UI pela Google Creative;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
 </div>
 
+# Formação:
+<div>
+	
+Curso superior em Design Gráfico pela UniCV;
+
+Design Thinking pela FIAP;
+
+Engenharia de Front-End pela EBAC;
+
+UX | UI pela Google Creative;
+
+</div>
+
 # Contatos:
 
 <div>
-<a href="https://instagram.com/isthatgeraud/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:geraud.pereira@hotmil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/geraudoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/isthatgeraud/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
