@@ -2,8 +2,6 @@
 ## Bem vindo ao meu perfil GitHub :)
 
 <!--
-**geraud01/geraud01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Olá, tenho 28 anos e sou natural de São Paulo.
 
 Após a flexibilização da pandemia, decidi me aventurar pelo sul da Bahia, onde, atualmente estou morando em Arraial D`Ajuda, um pedacinho do paraíso próximo à Porto Seguro.
