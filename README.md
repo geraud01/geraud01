@@ -24,11 +24,15 @@ Olá, meu nome é Geraud, tenho 28 anos, nascido em São Paulo (SP), recentement
 	
 Curso superior em Design Gráfico pela UniCV;
 
-Design Thinking pela FIAP;
+Certificado em Design Thinking pela FIAP;
+
+Certificado em User Experience pela FIAP;
+
+Certificado em Figma pela EBAC;
 
 Engenharia de Front-End pela EBAC;
 
-Python 3 - Coder;
+Python 3 pela Coder;
 
 UX | UI pela Google Creative;
 
