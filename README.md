@@ -28,6 +28,8 @@ Design Thinking pela FIAP;
 
 Engenharia de Front-End pela EBAC;
 
+Python 3 - Coder;
+
 UX | UI pela Google Creative;
 
 </div>
